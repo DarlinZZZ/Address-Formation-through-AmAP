@@ -36,7 +36,7 @@ Regeocoding is a way to transfer latitude and longitude back to address.
 1. Clone project：
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    https://github.com/DarlinZZZ/Address-Formation-through-AmAP.git
     ```
 
 2. Special Requires：
